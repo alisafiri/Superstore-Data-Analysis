@@ -7,6 +7,12 @@ Comprehensive Exploratory Data Analysis (EDA) using Python, Pandas, and Matplotl
 This project performs a complete exploratory data analysis (EDA) on the Superstore Sales dataset.
 The objective is to uncover business insights, identify high-profit and low-profit segments, evaluate discount strategies, analyze customer behavior, and understand sales trends across time and regions.
 
+**Business Questions Answered:**
+- What are the seasonal sales trends?
+- Which products and regions are most profitable?
+- Who are our most valuable customers?
+- How can we optimize inventory and marketing?
+
 ## 🧹 Data Cleaning & Preparation
 
 The following steps were performed before analysis:
