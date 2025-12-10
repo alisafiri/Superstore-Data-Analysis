@@ -1,8 +1,8 @@
-## 📊 Superstore Sales Analysis
+## Superstore Sales Analysis
 
 Comprehensive Exploratory Data Analysis (EDA) using Python, Pandas, and Matplotlib
 
-## 📌 Overview
+## Overview
 
 This project performs a complete exploratory data analysis (EDA) on the Superstore Sales dataset.
 The objective is to uncover business insights, identify high-profit and low-profit segments, evaluate discount strategies, analyze customer behavior, and understand sales trends across time and regions.
@@ -13,7 +13,7 @@ The objective is to uncover business insights, identify high-profit and low-prof
 - Who are our most valuable customers?
 - How can we optimize inventory and marketing?
 
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 The following steps were performed before analysis:
 
@@ -28,31 +28,7 @@ The following steps were performed before analysis:
 - Sorted data by order date
 - Basic statistical summary of Sales, Profit, Discount, Quantity, and others
 
-## 🔍 Exploratory Data Analysis (EDA)
-
-1. Sales Analysis
-- Top-performing categories and sub-categories
-- Monthly and yearly sales trends
-- City/state/region-level sales performance
-
-2. Profitability Analysis
-- Most profitable categories
-- Least profitable (loss-making) sub-categories
-- Identifying products with high sales but low profit
-
-3. Discount Analysis
-- Relationship between discount percentage and profit
-- Impact of heavy discounting on overall performance
-
-4. Shipping Analysis
-- Distribution of shipping days
-- Correlation between long shipping times and lower profits
-
-5. Customer Insights
-- Profit contribution by customer segment
-- Customer purchase behavior patterns
-
-## 📊 Visualizations
+## Visualizations
 
 All charts are stored inside the images/ directory.
 
@@ -64,7 +40,7 @@ Included plots:
 - Regional Sales
 - Sales Share by Catefory
 
-## 📈 Key Insights
+## Key Insights
 
 Some of the important findings from the analysis:
 
@@ -74,21 +50,10 @@ Some of the important findings from the analysis:
 - Shipping times longer than 5 days tend to correlate with lower profitability.
 - Sales peak during Q4 (seasonal behavior).
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Jupyter Notebook
-
-## 🚀 How to Run the Project
-
-1. Clone the repository
-2. Install the required libraries
-3. Run the notebook:
-jupyter notebook notebooks/superstore_analysis.ipynb
-
-## 📬 Contact
-
-If you have questions or want to collaborate, feel free to reach out.
