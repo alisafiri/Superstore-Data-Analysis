@@ -20,7 +20,6 @@ Some of the important findings from the analysis:
 - Several sub-categories in Furniture generate negative profit → pricing strategy issues.
 - High discounts strongly reduce profit, especially in Furniture products.
 - Shipping times longer than 5 days tend to correlate with lower profitability.
-- Sales peak during Q4 (seasonal behavior).
 
 ## Using
 
@@ -29,3 +28,5 @@ Some of the important findings from the analysis:
 - NumPy
 - Matplotlib
 - Jupyter Notebook
+
+## Contact 
