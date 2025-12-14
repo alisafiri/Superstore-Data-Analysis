@@ -1,7 +1,3 @@
-https://img.shields.io/badge/Python-3.x-blue?logo=python
-https://img.shields.io/badge/Pandas-Data_Analysis-150458?logo=pandas
-https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter
-
 ## Superstore Sales Analysis  📊
 
 Comprehensive Exploratory Data Analysis (EDA) using Python, Pandas, and Matplotlib
